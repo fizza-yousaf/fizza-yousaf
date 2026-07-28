@@ -1,4 +1,4 @@
-# Hi 👋, I'm Fizza Yousaf
+# Hi , I'm Fizza Yousaf
 
 ### 💻 Software Engineer | Frontend Developer | JavaScript
 
