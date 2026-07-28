@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi 👋, I'm Fizza Yousaf
 
-<!--
-**fizza-yousaf/fizza-yousaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineer | Frontend Developer | JavaScript
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about building modern, responsive web applications and continuously improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 BS Software Engineering Graduate
+- 💼 Frontend Developer
+- 🌱 Currently learning **JavaScript**, **React**
+- 🚀 Interested in Web Development, AI, and Open Source
+- 📚 Always learning and building new projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- HTML5
+- CSS3
+- JavaScript
+
+### Frameworks & Libraries
+- Tailwind CSS
+- React (Learning)
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- WordPress
+
+
+
+## 📂 Featured Projects
+
+- 🏋️ Gym Website
+- 🎮 Tic Tac Toe Game
+- 💼 Portfolio Website
+- 🌐 Landing Pages
+
+More exciting projects coming soon!
+
+
+## 🌱 Currently Learning
+
+- Advanced JavaScript
+- React
+- Node.js
+- AI Automation with n8n
+
+---
+
+## 📈 GitHub Goals
+
+- Build real-world projects
+- Contribute to open source
+- Learn Full Stack Development
+- Explore AI-powered applications
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: www.linkedin.com/in/fizza-yousaf-63b884362
+- 📧 Email: your-email@example.com
+
+---
+
+⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
