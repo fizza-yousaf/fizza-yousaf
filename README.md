@@ -22,6 +22,7 @@ Welcome to my GitHub! I'm passionate about building modern, responsive web appli
 - HTML5
 - CSS3
 - JavaScript
+- React Basics
 
 ### Frameworks & Libraries
 - Tailwind CSS
